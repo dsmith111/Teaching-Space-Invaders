@@ -1,5 +1,4 @@
-Hello, this zip file contains the deliverables of Sonia Patel, and David Smith's
-project ECE-554 final project
+Teaching Space Invaders Scripts and Build
 ========================
 
 <h2>C-Sharp-Scripts</h2>
