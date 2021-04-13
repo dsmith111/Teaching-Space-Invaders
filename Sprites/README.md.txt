@@ -1,0 +1,1 @@
+These are the space-invaders based sprites we created.
